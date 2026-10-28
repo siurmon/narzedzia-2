@@ -1,0 +1,14 @@
+{
+  "bill_01": {
+    "amount_pln": 250.50,
+    "due_date": "2026-11-15",
+    "bill_type": "Electricity",
+    "apartment_key": "apt_1"
+  },
+  "bill_02": {
+    "amount_pln": 120.00,
+    "due_date": "2026-11-20",
+    "bill_type": "Internet",
+    "apartment_key": "apt_2"
+  }
+}
